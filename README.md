@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
