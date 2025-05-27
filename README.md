@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
 | ------- |
