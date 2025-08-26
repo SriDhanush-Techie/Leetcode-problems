@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/SriDhanush-Techie/Leetcode-problems/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
